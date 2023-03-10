@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bowen Zheng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Nankai University"
   location         : "Tianjin, China"
-  employer         : "Nankai University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BUtITWcAAAAJ"
   email            : "zhengbw@nankai.edu.cn"
