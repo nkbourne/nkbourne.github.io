@@ -48,7 +48,7 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 - [Data recovery in wireless sensor networks based on low rank and short-term stability](https://ieeexplore.ieee.org/abstract/document/8902099), Xiaochao Liu, Guiling Sun, Zhouzhou Li, **Bowen Zheng**, IEEE Access, 2019.
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2021.12* National 2st Prize of National Undergraduate Electronics Design Contest (As an instrutor).
 - *2020.01* 3rd place in the 2020 *Techfest* International Micromouse Challenge.
 - *2019.09* 8th place in the Tianjin Students' "Internet+" Innovation and Entrepreneurship Competition.
@@ -62,9 +62,9 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 - *2016.09 - 2018.06*, Master, Nankai University, Tianjin.
 - *2012.09 - 2016.06*, Undergraduate, Nankai University, Tianjin.
 
-# 💬 Projects
+# 💻 Projects
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Additional Works
+# 🎮 Additional Works
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
