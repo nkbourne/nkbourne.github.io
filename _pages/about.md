@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at the College of Electronic Information and Optical Engineering, Nankai University, as a research associate. My research interest includes deep learning, compressed sensing, image processing, Internet of Things and computer vision. I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=BUtITWcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I work at the College of Electronic Information and Optical Engineering, Nankai University, as a research associate. My research interest includes deep learning, compressed sensing, image processing, Internet of Things and computer vision. I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=BUtITWcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
