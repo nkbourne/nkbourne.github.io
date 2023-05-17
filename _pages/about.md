@@ -76,7 +76,7 @@ Designed a half-size Micromouse in collaboration with Ruobin Wang.
 - More than 160 electronic components.
 - Over 40 mechanical elements.
 - Land size: 38 by 57mm.
-- Real-time pah recording.
+- Real-time path recording.
 - Efficient search algorithm.
 </div>
 </div>
