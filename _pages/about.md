@@ -49,13 +49,13 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 
 
 # 🏆 Honors and Awards
-- *2021.12* National 2st Prize of National Undergraduate Electronics Design Contest (As an instrutor).
-- *2020.01* 3rd place in the 2020 *Techfest* International Micromouse Challenge.
-- *2019.09* 8th place in the Tianjin Students' "Internet+" Innovation and Entrepreneurship Competition.
-- *2018.04* 1st Prize of the 3rd "Dream+" Innovation and Entrepreneurship Competition of Nankai University.
-- *2017.12* 1st Prize of the 6th Tianjin Undergraduate Micromouse Competition.
-- *2017.11* National Scholarship. 
-- *2015.09* National 1st Prize of National Undergraduate Electronics Design Contest. 
+- *2021.12*, National 2st Prize of National Undergraduate Electronics Design Contest (As an instrutor).
+- *2020.01*, 3rd place in the 2020 *Techfest* International Micromouse Challenge.
+- *2019.09*, 8th place in the Tianjin Students' "Internet+" Innovation and Entrepreneurship Competition.
+- *2018.04*, 1st Prize of the 3rd "Dream+" Innovation and Entrepreneurship Competition of Nankai University.
+- *2017.12*, 1st Prize of the 6th Tianjin Undergraduate Micromouse Competition.
+- *2017.11*, National Scholarship. 
+- *2015.09*, National 1st Prize of National Undergraduate Electronics Design Contest. 
 
 # 📖 Educations
 - *2018.09 - 2022.06*, Ph.D., Nankai University, Tianjin. 
@@ -63,8 +63,9 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 - *2012.09 - 2016.06*, Undergraduate, Nankai University, Tianjin.
 
 # 💻 Projects
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2018.01-2021.12*, Participation in the National Natural Science Foundation of China, *Research on key technologies for image acquisition in wireless sensor networks incorporating compressed sensing and low-rank theory*.
+- *2019.01-2021.12*, Participation in the Tianjin Science and Technology Support Plan Major Special Project, *Establishment and Implementation of Multi-parameter Total Process Information Collection and Intelligent Decision-making Supervision System for Smart Agriculture*.
+- *2017.10-2020.09*, Participation in the Tianjin Science and Technology Major Special Projects and Engineering, *Research and development of e-commerce and quality and safety traceability system for agricultural products*.
 
 # 🎮 Additional Works
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
