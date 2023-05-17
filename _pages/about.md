@@ -68,4 +68,15 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 - *2017.10-2020.09*, Participation in the Tianjin Science and Technology Major Special Projects and Engineering, *Research and development of e-commerce and quality and safety traceability system for agricultural products*.
 
 # 🎮 Additional Works
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Micromouse</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Designed a half-size computer mouse in collaboration with Ruobin Wang.
+
+- More than 160 electronic components.
+- Over 40 mechanical elements.
+- Land size: 38 by 57mm.
+- Real-time pah recording.
+- Efficient search algorithm.
+</div>
+</div>
