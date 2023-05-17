@@ -71,7 +71,7 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Micromouse</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Designed a half-size computer mouse in collaboration with Ruobin Wang.
+Designed a half-size Micromouse in collaboration with Ruobin Wang.
 
 - More than 160 electronic components.
 - Over 40 mechanical elements.
