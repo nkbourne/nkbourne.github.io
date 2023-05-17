@@ -39,13 +39,13 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 </div>
 </div> -->
 
-- [Vegetable Size Measurement Based on Stereo Camera and Keypoints Detection](https://www.mdpi.com/1424-8220/22/4/1617), *Bowen Zheng*, Guiling Sun, Zhaonan Meng, Ruili Nan, Sensors, 2022.
-- [Fully Learnable Model for Task-Driven Image Compressed Sensing](https://www.mdpi.com/1424-8220/21/14/4662), *Bowen Zheng*, Jianping Zhang, Guiling Sun, Xiangnan Ren, Sensors, 2021.
-- [EnGe-CSNet: A Trainable Image Compressed Sensing Model Based on Variational Encoder and Generative Networks](https://www.mdpi.com/2079-9292/10/9/1089), *Bowen Zheng*, Jianping Zhang, Guiling Sun, Xiangnan Ren, Electronics, 2021.
-- [A crop image segmentation and extraction algorithm based on Mask RCNN](https://www.mdpi.com/1099-4300/23/9/1160), Shijie Wang, Guiling Sun, *Bowen Zheng*, Yawen Du, Entropy, 2021.
-- [Extraction and research of crop feature points based on computer vision](https://www.mdpi.com/1424-8220/19/11/2553), Jingwen Cui, Jianping Zhang, Guiling Sun, *Bowen Zheng*, Entropy, 2019.
-- [Compressive sparse data gathering with low-rank and total variation in wireless sensor networks](https://ieeexplore.ieee.org/abstract/document/8880602), Yi Xu, Guiling Sun, Tianyu Geng, *Bowen Zheng*, IEEE Access, 2019.
-- [Data recovery in wireless sensor networks based on low rank and short-term stability](https://ieeexplore.ieee.org/abstract/document/8902099), Xiaochao Liu, Guiling Sun, Zhouzhou Li, *Bowen Zheng*, IEEE Access, 2019.
+- [Vegetable Size Measurement Based on Stereo Camera and Keypoints Detection](https://www.mdpi.com/1424-8220/22/4/1617), **Bowen Zheng**, Guiling Sun, Zhaonan Meng, Ruili Nan, Sensors, 2022.
+- [Fully Learnable Model for Task-Driven Image Compressed Sensing](https://www.mdpi.com/1424-8220/21/14/4662), **Bowen Zheng**, Jianping Zhang, Guiling Sun, Xiangnan Ren, Sensors, 2021.
+- [EnGe-CSNet: A Trainable Image Compressed Sensing Model Based on Variational Encoder and Generative Networks](https://www.mdpi.com/2079-9292/10/9/1089), **Bowen Zheng**, Jianping Zhang, Guiling Sun, Xiangnan Ren, Electronics, 2021.
+- [A crop image segmentation and extraction algorithm based on Mask RCNN](https://www.mdpi.com/1099-4300/23/9/1160), Shijie Wang, Guiling Sun, **Bowen Zheng**, Yawen Du, Entropy, 2021.
+- [Extraction and research of crop feature points based on computer vision](https://www.mdpi.com/1424-8220/19/11/2553), Jingwen Cui, Jianping Zhang, Guiling Sun, **Bowen Zheng**, Entropy, 2019.
+- [Compressive sparse data gathering with low-rank and total variation in wireless sensor networks](https://ieeexplore.ieee.org/abstract/document/8880602), Yi Xu, Guiling Sun, Tianyu Geng, **Bowen Zheng**, IEEE Access, 2019.
+- [Data recovery in wireless sensor networks based on low rank and short-term stability](https://ieeexplore.ieee.org/abstract/document/8902099), Xiaochao Liu, Guiling Sun, Zhouzhou Li, **Bowen Zheng**, IEEE Access, 2019.
 
 
 # 🎖 Honors and Awards
