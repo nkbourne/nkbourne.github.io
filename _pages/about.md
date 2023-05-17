@@ -22,8 +22,8 @@ I work at the College of Electronic Information and Optical Engineering, Nankai 
 Furthermore, I have a strong interest in robotics technology. I participated in the 2015 National College Students' Electronic Design Competition, where I designed and built an autonomous quadrotor UAV, which won the first prize nationwide. I designed the first generation of half-size Micromouse in China in collaboration with Ruobin Wang and promoted it to the Tianjin Micromouse Challenge.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum , consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06*: &nbsp;🎉🎉 Receive my Ph.D. from Nankai University.
+- *2022.06*: &nbsp;🎉🎉 Join the College of Electronic Information and Optical Engineering, Nankai University.
 
 # 📝 Publications 
 
