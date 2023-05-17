@@ -19,7 +19,7 @@ redirect_from:
 
 I work at the College of Electronic Information and Optical Engineering, Nankai University, as a research associate. My research interests include deep learning, compressed sensing, image processing, Internet of Things and computer vision. I have published 10+ papers with <a href='https://scholar.google.com/citations?user=BUtITWcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-Furthermore, I have a strong interest in robotics technology. I participated in the 2015 National Undergraduate Electronics Design Contest, where I designed and built an autonomous quadrotor UAV, which won the National First Prize. I designed the first generation of half-size Micromouse in China in collaboration with Ruobin Wang and promoted it to the Tianjin Micromouse Challenge.
+Furthermore, I have a strong interest in robotics technology. I participated in the 2015 National Undergraduate Electronics Design Contest, where I designed and built an autonomous quadrotor UAV, which won the National First Prize. I designed the first generation of half-size Micromouse in China in collaboration with Ruobin Wang and promoted it to the Tianjin Micromouse Challenge. If you have any question, please feel free to email at [zhengbw@nankai.edu.cn](mailto:zhengbw@nankai.edu.cn).
 
 # 🔥 News
 - *2022.06*: &nbsp;🎉🎉 Receive my Ph.D. from Nankai University.
@@ -58,12 +58,13 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 - *2015.09* National 1st Prize of National Undergraduate Electronics Design Contest. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2022.06*, Ph.D., Nankai University, Tianjin. 
+- *2016.09 - 2018.06*, Master, Nankai University, Tianjin.
+- *2012.09 - 2016.06*, Undergraduate, Nankai University, Tianjin.
 
-# 💬 Invited Talks
+# 💬 Projects
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Additional Works
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
