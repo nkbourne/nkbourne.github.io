@@ -49,7 +49,7 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 
 
 # 🏆 Honors and Awards
-- *2021.12*, National 2st Prize of National Undergraduate Electronics Design Contest (As an instrutor).
+- *2021.12*, National 2st Prize of National Undergraduate Electronics Design Contest (As a coach).
 - *2020.01*, 3rd place in the 2020 *Techfest* International Micromouse Challenge.
 - *2019.09*, 8th place in the Tianjin Students' "Internet+" Innovation and Entrepreneurship Competition.
 - *2018.04*, 1st Prize of the 3rd "Dream+" Innovation and Entrepreneurship Competition of Nankai University.
