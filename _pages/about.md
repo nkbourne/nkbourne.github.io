@@ -38,7 +38,7 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-
+- [LD-CSNet: A Latent Diffusion-Based Architecture for Perceptual Compressed Sensing](), **Bowen Zheng**, Guiling Sun, Liang Dong, Sirui Wang, Neural Networks, 2024.
 - [Vegetable Size Measurement Based on Stereo Camera and Keypoints Detection](https://www.mdpi.com/1424-8220/22/4/1617), **Bowen Zheng**, Guiling Sun, Zhaonan Meng, Ruili Nan, Sensors, 2022.
 - [Fully Learnable Model for Task-Driven Image Compressed Sensing](https://www.mdpi.com/1424-8220/21/14/4662), **Bowen Zheng**, Jianping Zhang, Guiling Sun, Xiangnan Ren, Sensors, 2021.
 - [EnGe-CSNet: A Trainable Image Compressed Sensing Model Based on Variational Encoder and Generative Networks](https://www.mdpi.com/2079-9292/10/9/1089), **Bowen Zheng**, Jianping Zhang, Guiling Sun, Xiangnan Ren, Electronics, 2021.
