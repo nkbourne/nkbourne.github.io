@@ -39,6 +39,8 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 </div>
 </div> -->
 - [LD-CSNet: A Latent Diffusion-Based Architecture for Perceptual Compressed Sensing](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004659), **Bowen Zheng**, Guiling Sun, Liang Dong, Sirui Wang, Neural Networks, 2024.
+- [OctNet: Illumination-aware Octave Fusion and Feature Enhancement for Multispectral Pedestrian Detection](https://ieeexplore.ieee.org/abstract/document/10824673), Sirui Wang, Guiling Sun, Liang Dong, **Bowen Zheng**, IEEE Sensors Journal, 2025.
+- [PAS-GAN: A GAN based on the Pyramid Across-Scale module for visible-infrared image transformation](https://www.sciencedirect.com/science/article/abs/pii/S1350449524001981), Sirui Wang, Guiling Sun, Liang Dong, **Bowen Zheng**, IEEE Sensors Journal, 2025.
 - [Vegetable Size Measurement Based on Stereo Camera and Keypoints Detection](https://www.mdpi.com/1424-8220/22/4/1617), **Bowen Zheng**, Guiling Sun, Zhaonan Meng, Ruili Nan, Sensors, 2022.
 - [Fully Learnable Model for Task-Driven Image Compressed Sensing](https://www.mdpi.com/1424-8220/21/14/4662), **Bowen Zheng**, Jianping Zhang, Guiling Sun, Xiangnan Ren, Sensors, 2021.
 - [EnGe-CSNet: A Trainable Image Compressed Sensing Model Based on Variational Encoder and Generative Networks](https://www.mdpi.com/2079-9292/10/9/1089), **Bowen Zheng**, Jianping Zhang, Guiling Sun, Xiangnan Ren, Electronics, 2021.
