@@ -38,6 +38,7 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [Deep Unfolding Architecture Based on Generative Prior Diffusion for Image Compressive Sensing](https://ieeexplore.ieee.org/document/11071641/authors#authors), **Bowen Zheng**, Guiling Sun, Haicheng Zhang, Pengchen Zhang, IEEE Signal Processing Letters, 2025.
 - [LD-CSNet: A Latent Diffusion-Based Architecture for Perceptual Compressed Sensing](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004659), **Bowen Zheng**, Guiling Sun, Liang Dong, Sirui Wang, Neural Networks, 2024.
 - [OctNet: Illumination-aware Octave Fusion and Feature Enhancement for Multispectral Pedestrian Detection](https://ieeexplore.ieee.org/abstract/document/10824673), Sirui Wang, Guiling Sun, Liang Dong, **Bowen Zheng**, IEEE Sensors Journal, 2025.
 - [PAS-GAN: A GAN based on the Pyramid Across-Scale module for visible-infrared image transformation](https://www.sciencedirect.com/science/article/abs/pii/S1350449524001981), Sirui Wang, Guiling Sun, Liang Dong, **Bowen Zheng**, Infrared Physics & Technology, 2024.
