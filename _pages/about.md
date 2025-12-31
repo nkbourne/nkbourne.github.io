@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at the College of Electronic Information and Optical Engineering, Nankai University, as a research associate. My research interests include deep learning, compressed sensing, image processing, Internet of Things and computer vision. I have published 10+ papers with <a href='https://scholar.google.com/citations?user=BUtITWcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I work at the School of Electronics and Information Engineering, Tiangong University, as a research associate. My research interests include deep learning, compressed sensing, image processing, Internet of Things and computer vision. I have published 10+ papers with <a href='https://scholar.google.com/citations?user=BUtITWcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 Furthermore, I have a strong interest in robotics technology. I participated in the 2015 National Undergraduate Electronics Design Contest, where I designed and built an autonomous quadrotor UAV, which won the National First Prize. I designed the first generation of half-size Micromouse in China in collaboration with Ruobin Wang and promoted it to the Tianjin Micromouse Challenge. If you have any question, please feel free to email at [zhengbw@nankai.edu.cn](mailto:zhengbw@nankai.edu.cn).
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Join the School of Electronics and Information Engineering, Tiangong University.
 - *2022.06*: &nbsp;🎉🎉 Receive my Ph.D. from Nankai University.
 - *2022.06*: &nbsp;🎉🎉 Join the College of Electronic Information and Optical Engineering, Nankai University.
 
@@ -38,6 +39,9 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [MP-DUN: Manifold Prior Based Deep Unfolding Network for Image Compressed Sensing](https://www.sciencedirect.com/science/article/pii/S0950705125021914), **Bowen Zheng**, Guiling Sun, Liang Dong, Haicheng Zhang, Knowledge-Based Systems, 2026.
+- [TSDGFusion: A text and semantic dual-guided model for infrared and visible image fusion](https://www.sciencedirect.com/science/article/pii/S0141938225003038), Jiawei Liu, Guiling Sun, **Bowen Zheng**, Liang Dong, Displays, 2026.
+- [TCIGFusion: A two-stage correlated feature interactive guided network for infrared and visible image fusion](https://www.sciencedirect.com/science/article/abs/pii/S0143816625004506), Jiawei Liu, Guiling Sun, **Bowen Zheng**, Liang Dong, Optics and Lasers in Engineering, 2025.
 - [Deep Unfolding Architecture Based on Generative Prior Diffusion for Image Compressive Sensing](https://ieeexplore.ieee.org/document/11071641/authors#authors), **Bowen Zheng**, Guiling Sun, Haicheng Zhang, Pengchen Zhang, IEEE Signal Processing Letters, 2025.
 - [LD-CSNet: A Latent Diffusion-Based Architecture for Perceptual Compressed Sensing](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004659), **Bowen Zheng**, Guiling Sun, Liang Dong, Sirui Wang, Neural Networks, 2024.
 - [OctNet: Illumination-aware Octave Fusion and Feature Enhancement for Multispectral Pedestrian Detection](https://ieeexplore.ieee.org/abstract/document/10824673), Sirui Wang, Guiling Sun, Liang Dong, **Bowen Zheng**, IEEE Sensors Journal, 2025.
