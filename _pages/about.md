@@ -40,6 +40,7 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 </div>
 </div> -->
 - [MP-DUN: Manifold Prior Based Deep Unfolding Network for Image Compressed Sensing](https://www.sciencedirect.com/science/article/pii/S0950705125021914), **Bowen Zheng**, Guiling Sun, Liang Dong, Haicheng Zhang, Knowledge-Based Systems, 2026.
+- [CARNet: Cross-Attention guided feature reconstruction for RGB-T object detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417425034803?via%3Dihub), Sirui Wang, Guiling Sun, Liang Dong, **Bowen Zheng**, Expert Systems with Applications, 2026.
 - [TSDGFusion: A text and semantic dual-guided model for infrared and visible image fusion](https://www.sciencedirect.com/science/article/pii/S0141938225003038), Jiawei Liu, Guiling Sun, **Bowen Zheng**, Liang Dong, Displays, 2026.
 - [TCIGFusion: A two-stage correlated feature interactive guided network for infrared and visible image fusion](https://www.sciencedirect.com/science/article/abs/pii/S0143816625004506), Jiawei Liu, Guiling Sun, **Bowen Zheng**, Liang Dong, Optics and Lasers in Engineering, 2025.
 - [Deep Unfolding Architecture Based on Generative Prior Diffusion for Image Compressive Sensing](https://ieeexplore.ieee.org/document/11071641/authors#authors), **Bowen Zheng**, Guiling Sun, Haicheng Zhang, Pengchen Zhang, IEEE Signal Processing Letters, 2025.
