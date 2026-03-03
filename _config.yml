@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bowen Zheng"
-description              : "Research assistant in College of Electronic Information and Optical Engineering, Nankai University."
+description              : "Research assistant in School of Electronics and Information Engineering, Tiangong University."
 repository               : "nkbourne/nkbourne.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bowen Zheng (郑博文)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nankai University"
+  bio              : "Tiangong University"
   location         : "Tianjin, China"
   employer         : 
   pubmed           : 

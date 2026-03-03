@@ -39,6 +39,7 @@ Furthermore, I have a strong interest in robotics technology. I participated in 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [CFD: A Chiplet Function Decomposition method for edge computing tasks](https://www.sciencedirect.com/science/article/abs/pii/S1879239126000135), Guiling Sun, Yunlong Kong, Haicheng Zhang, **Bowen Zheng**, Microelectronics Journal, 2026.
 - [MP-DUN: Manifold Prior Based Deep Unfolding Network for Image Compressed Sensing](https://www.sciencedirect.com/science/article/pii/S0950705125021914), **Bowen Zheng**, Guiling Sun, Liang Dong, Haicheng Zhang, Knowledge-Based Systems, 2026.
 - [CARNet: Cross-Attention guided feature reconstruction for RGB-T object detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417425034803?via%3Dihub), Sirui Wang, Guiling Sun, Liang Dong, **Bowen Zheng**, Expert Systems with Applications, 2026.
 - [TSDGFusion: A text and semantic dual-guided model for infrared and visible image fusion](https://www.sciencedirect.com/science/article/pii/S0141938225003038), Jiawei Liu, Guiling Sun, **Bowen Zheng**, Liang Dong, Displays, 2026.
